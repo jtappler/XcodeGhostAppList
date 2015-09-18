@@ -1,2 +1,29 @@
-# XcodeGhostAppList
-This is a list of iOS apps that have confirmed be infected by XcodeGhost
+# XcodeGhost确认感染的应用程序列表
+
+简单来说就是部分中国的软件开放商使用了非苹果官方渠道下载的 Xcode 中进行软件编译，而这部分的Xcode软件经过篡改，携带恶意框架，会导致编译出的 iPhone/iPad 应用程序携带木马。
+
+关于事件详情，请移步至 http://drops.wooyun.org/news/8864
+
+以下为已经确认感染的应用程序列表，为安全计，请大家自行删除。本列表持续更新中。
+
+- 微信
+- 网易云音乐
+- 滴滴出行
+- 滴滴打车
+- 穷游
+- 马拉马拉
+- 12306
+- 51卡保险箱
+- 号码归属地助手
+- 愤怒的小鸟2
+- 中国联通手机营业厅
+- 高德地图
+- 简书
+- 口袋记帐
+- 豌豆荚的开眼
+- 网易公开课
+- 下厨房
+- Lifesmart
+- 同花顺
+- 夫妻床头话
+- 中信银行动卡空间
